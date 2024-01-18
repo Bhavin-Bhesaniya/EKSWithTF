@@ -1,0 +1,4 @@
+EKS-With-TF-User_accessKeys.csv
+Jekins-EKS-Key-Pair.pem
+.terraform/*
+.terraform.lock.hcl
